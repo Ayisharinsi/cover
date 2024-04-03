@@ -160,7 +160,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](aqs/bookapp/static/poster.jpg)
+![alt text](<poster web.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
